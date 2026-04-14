@@ -45,7 +45,7 @@ I am a **Full-Stack Web Developer** and student at **Sri Sai University**. I spe
 - Implemented secure file uploads and session-based authentication.
 - Focused on clean folder structure and DRY principle.
 
-#### 🧶 [PahariKnits](https://pahariknits.com)
+#### 🧶 [PahariKnits](https://pahariknits.in)
 **E-commerce platform for local heritage**
 - Custom storefront built for scalability and fast performance.
 - Direct-to-consumer architecture focusing on user experience.
