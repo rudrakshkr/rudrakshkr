@@ -50,10 +50,10 @@ I'm a **Full-Stack Web Developer** and college student currently based in India.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudrakshkr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshkr&layout=compact&langs_count=6&theme=radical"/>
 </p>
 
 <br>
 
-* 📬 Contact: [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+* 📬 Contact: [rudrakshkumar2908@gmail.com](mailto:rudrakshkumar2908@gmail.com)
