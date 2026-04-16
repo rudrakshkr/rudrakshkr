@@ -41,8 +41,13 @@ I'm a **Full-Stack Web Developer** and college student currently based in India.
 <p align="center">
   <strong>Tools & Others</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,popos,leetcode,npm,postman,vite,figma,discord" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,postman,vite,figma,discord" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white" alt="Pop!_OS" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </p>
 
 ---
