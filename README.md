@@ -41,7 +41,7 @@ I'm a **Full-Stack Web Developer** and college student currently based in India.
 <p align="center">
   <strong>Tools & Others</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,leetcode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pop_os,leetcode,npm,postman,vite,figma,discord" />
   </a>
 </p>
 
